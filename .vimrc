@@ -21,7 +21,7 @@ set incsearch
 
 " Show invisibles
 set list
-"set listchars=tab:>\ ,trail:-,extends:>,precedes:<,nbsp:+
+set listchars=tab:>\ ,trail:-,extends:>,precedes:<,nbsp:+
 
 " show line number
 set number
